@@ -1,0 +1,34 @@
+.header {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#navigation ul {
+    list-style: none;
+    padding: 10px;
+    background-color: #eee;
+    text-align: center;
+    font-style: arial;
+}
+
+#navigation ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.menu-header {
+    text-align: center;
+    font-size: 30px;
+}
+
+.menu ul {
+    background-color: #eee;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.menu ul li {
+    display: inline;
+    font-style: italic;
+}
